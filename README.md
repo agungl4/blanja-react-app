@@ -13,7 +13,7 @@ Blanja adalah sebuah web e-commerce dimana customer dan seller mampu bertransaks
 
 ## Installation
 * Buka terminal atau command prompt
-* git clone https://github.com/ariefw96/blanjaIn-reactJs.git
+* git clone https://github.com/agungl4/blanja-react-app.git
 * Buka folder dan tulis yarn atau npm install untuk install dependencies
 * tulis yarn start atau npm start
 
